@@ -1,0 +1,16 @@
+.header{
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+  }
+  .nav {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: black;
+  }
+  .active {
+    color: rgb(252, 130, 130);
+  }
